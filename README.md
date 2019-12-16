@@ -1,5 +1,17 @@
 # bashsig.sh
 
+## Implements
+
+* [ ] `a b c` arguments
+* [ ] `-a -b -c` flags
+* [ ] `-a: -b: -c:` flags with params
+* [ ] `a @` trailing varargs
+* [ ] `@ a` trailing positionals
+* [ ] `a @ b` both
+* [ ] `` no args
+* [ ] `a^^` `a,,` `a#word` `a%word` transforms
+
+
 ## Examples
 
 ```bash
