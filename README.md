@@ -1,5 +1,7 @@
 # bashsig.sh
 
+Archive note: This will probably be replaced by a module in [bash-std](https://github.com/Summertime/bash-std)
+
 ## Implements
 
 * [x] `a b c` arguments
